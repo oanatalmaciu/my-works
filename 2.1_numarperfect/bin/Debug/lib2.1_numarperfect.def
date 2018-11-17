@@ -1,0 +1,6 @@
+EXPORTS
+    _get_output_format @1
+    d @2 DATA
+    main @3
+    n @4 DATA
+    s @5 DATA
